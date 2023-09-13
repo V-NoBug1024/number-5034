@@ -1,7 +1,7 @@
 # number-5034
 轻松入门大数据 玩转Flink，打造湖仓一体架构
 
-### download:daxiacode.com/5034.html
+### 微:NoBug1024 
 
 资源介绍：
 
